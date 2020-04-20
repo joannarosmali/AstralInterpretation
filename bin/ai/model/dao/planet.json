@@ -1,0 +1,16 @@
+{
+	"planet":[
+		{"id": "0",	"name": "Asc", "features": "", "image": ""},
+		{"id": "1",	"name": "Sol", "features": "", "image": ""},
+		{"id": "2",	"name": "Luna", "features": "", "image": ""},
+		{"id": "3",	"name": "Mercurio", "features": "rige el pensamiento, la comunicación, nuestros contactos personales con el medio que nos rodea.", "image": ""},
+		{"id": "4",	"name": "Venus", "features": "", "image": ""},
+		{"id": "5",	"name": "Marte", "features": "", "image": ""},
+		{"id": "6",	"name": "J\u00FApiter", "features": "", "image": ""},
+		{"id": "7",	"name": "Saturno", "features": "", "image": ""},
+		{"id": "8",	"name": "Urano", "features": "", "image": ""},
+		{"id": "9",	"name": "Neptuno", "features": "", "image": ""},
+		{"id": "10",	"name": "Plut\u00F3n", "features": "", "image": ""}
+		{"id": "11",	"name": "Nodo Norte", "features": "", "image": ""}
+	]
+}

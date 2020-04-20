@@ -1,0 +1,16 @@
+{
+	"sign":[
+		{"id": "1",	"name": "Aries", "features": "", "image": ""},
+		{"id": "2",	"name": "Tauro", "features": "", "image": ""},
+		{"id": "3",	"name": "G\u00E9minis", "features": "", "image": ""},
+		{"id": "4",	"name": "C\u00E1ncer", "features": "", "image": ""},
+		{"id": "5",	"name": "Leo", "features": "", "image": ""},
+		{"id": "6",	"name": "Virgo", "features": "", "image": ""},
+		{"id": "7",	"name": "Libra", "features": "", "image": ""},
+		{"id": "8",	"name": "Escorpio", "features": "", "image": ""},
+		{"id": "9",	"name": "Sagitario", "features": "", "image": ""},
+		{"id": "10",	"name": "Capricornio", "features": "", "image": ""},
+		{"id": "11",	"name": "Acuario", "features": "", "image": ""},
+		{"id": "12",	"name": "Piscis", "features": "", "image": ""},
+	]
+}

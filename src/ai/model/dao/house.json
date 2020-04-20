@@ -1,0 +1,16 @@
+{
+	"house":[
+		{"id": "1",	"name": "Casa I", "features": "Es la casa de la Personalidad, indica como te ven las demás personas.", "image": ""},
+		{"id": "2",	"name": "Casa II", "features": "Es la casa del Dinero. Se ve c\u00F3mo se puede ganar y gastar el dinero.", "image": ""},
+		{"id": "3",	"name": "Casa II", "features": "Está relacionada a la Comunicaci\u00F3n y de la mente concreta, a los hermanos, los vecinos y el entorno. También habla sobre los estudios primarios.", "image": ""},
+		{"id": "4",	"name": "Casa IV", "features": "Es la casa de la Madre, de la familia y las raíces.", "image": ""},
+		{"id": "5",	"name": "Casa V", "features": "Es la casa de la Creatividad, tiene que ver con la diversi\u00F3n,  los noviazgos, los hijos, la docencia.", "image": ""},
+		{"id": "6",	"name": "Casa VI", "features": "Es la casa de la Salud y el Trabajo, está relacionada al servicio y a los compañeros de trabajo.", "image": ""},
+		{"id": "7",	"name": "Casa VII", "features": "Es la casa de la Pareja, del matrimonio, de los socios, de los contratos, de los juicios y de los enemigos declarados.", "image": ""},
+		{"id": "8",	"name": "Casa VIII", "features": "Está relacionada a la muerte, los cierres de ciclo, el dinero de los demás, los bancos, las herencias.", "image": ""},
+		{"id": "9",	"name": "Casa IX", "features": "Es la casa de los estudios superiores y del extranjero.", "image": ""},
+		{"id": "10",	"name": "Casa X", "features": "Está relacionada a la Profesi\u00F3n y a las figuras de autoridad.", "image": ""},
+		{"id": "11",	"name": "Casa XI", "features": "Es la casa relacionada a los amigos, los grupos y las metas.", "image": ""},
+		{"id": "12",	"name": "Casa XII", "features": "Es la casa de las enfermedades cr\u00F3nicas, de los encierros, los enemigos ocultos y los vicios. Indica c\u00F3mo vivi\u00F3 su mamá el embarazo. Igualmente tiene que ver con lo oculto y la espiritualidad.", "image": ""},
+	]
+}

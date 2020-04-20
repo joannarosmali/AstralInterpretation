@@ -1,0 +1,16 @@
+{
+	"energy":[
+		{"id": "0",	"type": "point", "type": "", "name": "Asc", "features": "", "image": "Se relaciona con la personalidad y el cuerpo físico. (Cúspide Casa 1)."},
+		{"id": "1",	"type": "planet", "name": "Sol", "features": "Representa nuestra vitalidad y autoexpresi\u00F3n. Es la realizaci\u00F3n de nuestra vida.", "image": ""},
+		{"id": "2",	"type": "planet", "name": "Luna", "features": "Asociada a nuestras emociones, es el receptáculo de nuestra memoria; significa el pasado, la madre, la necesidad de protecci\u00F3n, de que nos cuiden y también de cuidar. Representa nuestras ataduras y las cosas a las que nos sentimos apegados, pero también puede ser donde tenemos un sentimiento de abandono.", "image": ""},
+		{"id": "3",	"type": "planet", "name": "Mercurio", "features": "rige el pensamiento, la comunicaci\u00F3n, nuestros contactos personales con el medio que nos rodea.", "image": ""},
+		{"id": "4",	"type": "planet", "name": "Venus", "features": "Permite establecer un contacto con el medio que le rodea, pero de tipo afectivo, señalando nuestra afectividad, subraya la relaci\u00F3n, es el Tú. También señala nuestra afectividad para con nosotros mismos, es la autoestima. ", "image": ""},
+		{"id": "5",	"type": "planet", "name": "Marte", "features": "Señala la agresividad de cada persona, pero no como violencia sino como capacidad de acci\u00F3n, de reacci\u00F3n ante lo que capta. Pone énfasis en la experiencia, el Yo, se asegura de ser un ente separado", "image": ""},
+		{"id": "6",	"type": "planet", "name": "Jupiter", "features": "Es el arquetipo del apoyo. Nos integra al mundo, apoya aquello que podemos llegar a alcanzar, las formas expansivas, los derechos del individuo en la sociedad, los placeres, las satisfacciones.", "image": ""},
+		{"id": "7",	"type": "planet", "name": "Saturno", "features": "Nos enfrenta a las reglas, leyes, obligaciones, responsabilidades. Nos pone pruebas y plantea exigencias, es la resistencia a superar para alcanzar nuestro lugar.", "image": ""},
+		{"id": "8",	"type": "planet", "name": "Urano", "features": "Libera de la estructuraci\u00F3n y busca la oportunidad de libertad.", "image": ""},
+		{"id": "9",	"type": "planet", "name": "Neptuno", "features": "Es el canal hacia nuevas realidades.", "image": ""},
+		{"id": "10",	"type": "planet", "name": "Plut\u00F3n", "features": "Provoca las crisis que permiten un nuevo comienzo, un nuevo renacer.", "image": ""}
+		{"id": "11",	"type": "point", "name": "Nodo Norte", "features": "", "image": ""}
+	]
+}

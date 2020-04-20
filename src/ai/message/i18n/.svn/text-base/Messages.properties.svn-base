@@ -1,0 +1,37 @@
+
+reglageneral.mensaje.campovacio =  No puede ser vacío
+reglageneral.mensaje.camporeque =  Campo obligatorio
+reglageneral.mensaje.selecoperacion = Seleccione un item de la lista
+reglageneral.mensaje.formatoincorrecto = Formato Incorrecto
+reglageneral.mensaje.caracteincorrecto = Caracteres invalidos
+reglageneral.mensaje.solonumero = Solo acepta números
+reglageneral.mensaje.longrequerida = No cumple con la longitud requerida
+reglageneral.mensaje.consultavacia = No se encontraron datos asociados a la consulta
+reglageneral.mensaje.consultaerror = Error al cargar los datos. Intentelo nuevamente.
+reglageneral.mensaje.cambioguardad = Cambios guardados satisfactoriamente
+reglageneral.mensaje.mayorcero = Valor debe ser mayor a cero
+reglageneral.server.comunicacion = Problemas de comunicación
+reglageneral.server.falla = Conexion con base de datos fallida
+
+aprovechamiento.interfaz.listasde = Deben existir SDE asociados
+aprovechamiento.interfaz.elimiPer = No debe esitir SDE asociados
+aprovechamiento.interfaz.cmbestado = Estado:
+aprovechamiento.interfaz.cmbmunicipio = Municipio:
+aprovechamiento.interfaz.txtcodpostal = Código postal:
+aprovechamiento.interfaz.txtextension = Extensión:
+aprovechamiento.interfaz.txtlinea1 = Línea plana 1:
+aprovechamiento.interfaz.txtlinea2 = Línea plana 2:
+
+usuario.interfaz.txtusuario = Usuario:
+usuario.interfaz.txtclave = Contraseña:
+usuario.interfaz.txtolvclave = Olvidé mi contraseña
+usuario.interfaz.txtlogin = Iniciar Sesión
+usuario.interfaz.iniciosesion = Error al iniciar sesión. Intentelo nuevamente
+usuario.interfaz.usuarioinvalido = Usuario y/o Clave inválida
+
+multaboleto.interfaz.multaexito = La multa fue creada exitosamente
+multaboleto.interfaz.multanumerdoc = Ya existe una multa con el mismo número
+multaboleto.interfaz.multagenerico = La multa no pudo ser creada
+multaboleto.interfaz.boletoexito = El boleto fue creado exitosamente
+multaboleto.interfaz.boletonumerdoc = Ya existe un boleto con el mismo número
+multaboleto.interfaz.boletogenerico = El boleto no pudo ser creado

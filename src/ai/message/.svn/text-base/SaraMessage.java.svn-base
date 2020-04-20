@@ -1,0 +1,31 @@
+package com.drna.sara.scl.message;
+
+import java.util.Locale;
+import java.util.ResourceBundle;
+
+import com.drna.sara.scl.util.SaraDataSource;
+
+public class SaraMessage {
+	
+	private static final String BUNDLE_QNAME = "com.drna.sara.scl.message.i18n.Messages";
+	
+	private static ResourceBundle bundle;
+	
+	private static Locale locale = null;
+	
+	static{
+		String strLocale = SaraDataSource.getLanguage();
+		
+		if(strLocale.equals("en")){
+			locale = new Locale(strLocale);
+			bundle = ResourceBundle.getBundle(BUNDLE_QNAME, locale);
+		}else{
+			locale = Locale.getDefault();
+			bundle = ResourceBundle.getBundle(BUNDLE_QNAME);
+		}
+	}
+	
+	public static ResourceBundle getMessage(){
+		return bundle;
+	}
+}
